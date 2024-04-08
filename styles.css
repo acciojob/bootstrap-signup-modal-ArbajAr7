@@ -1,14 +1,10 @@
-/*  your css code here. If applicable */
-.signupbtn{
-	height:30px;
-	width:80px;
-	font-size:13px;
-	font-weight:bold;
-}
-
 .modal-content {
-  width: 80%;
+  width: 60%;
   margin: 0 auto;
+}
+.inputwithp{
+	margin-bottom:0;
+	padding-bottom:0;
 }
 .modal-body {
   padding: 0;
